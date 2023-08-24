@@ -2,3 +2,6 @@ Get the details of the user...
 process the data git
 
 create  an avatar to user
+
+
+login and logout
