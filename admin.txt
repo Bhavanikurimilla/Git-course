@@ -1,6 +1,6 @@
 add and remove users
 manage database
-closing database connections
+closing  the mysql database connections
 
 
 change roles
