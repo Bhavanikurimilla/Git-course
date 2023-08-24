@@ -1,4 +1,4 @@
 Get the details of the user...
 process the data git
 
-create  an avatar
+create  an avatar to user
