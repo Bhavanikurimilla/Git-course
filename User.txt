@@ -1,2 +1,4 @@
 Get the details of the user...
-process the data
+process the data git
+
+create  an avatar
